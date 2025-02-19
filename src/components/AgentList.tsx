@@ -38,11 +38,11 @@ const agents: Agent[] = [
     address: '9s9k5X7EVkRtKE6PYzDVd9aU9qGFy5dHyiRya7sjCUxK',
     id: 'p:6' as GameId<'players'>,
   },
-  {
+  /*   {
     name: 'Dave',
     address: '3F6L4ArRJEbij8MPim1yqR9z7Fvg4KcftSpgb97iGXna',
     id: 'p:10' as GameId<'players'>,
-  },
+  }, */
 ];
 
 interface AgentListProps {
@@ -95,9 +95,9 @@ export default function AgentList({ setSelectedElement }: AgentListProps) {
       <div className="flex justify-between">
         <div className="hidden lg:block w-full lg:text-center text-2xl lg:text-5xl font-bold font-display shadow-solid box">
           <p className="bg-[#964253] p-1 flex flex-col items-center">
-            <span>Artificial</span>
+            <span>MBTI AI</span>
             <span className="flex items-center">
-              Isle
+              Town
               <img
                 src="/assets/pixelislandicon.png"
                 alt="Island Icon"
@@ -111,7 +111,7 @@ export default function AgentList({ setSelectedElement }: AgentListProps) {
       <div className="lg:mt-4 chats text-black">
         <div className="bg-[#ffe478] p-2">
           <div className="flex justify-between items-center">
-            <h2 className="font-display shadow-solid text-2xl">Week 4</h2>
+            <h2 className="font-display shadow-solid text-2xl">Week 5</h2>
             <WeekCountdown />
           </div>
 
