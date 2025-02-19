@@ -61,7 +61,7 @@ export const Descriptions = [
     name: 'Edison Tech',
     character: 'f4',
     identity:
-      "Edison is passionate about inventing things that can help humanity. He works on multiple projects at once, from electric cars to space exploration. He loves sharing his ideas on social media and has a quirky sense of humor. He's a big fan of science fiction and believes anything is possible with enough engineering.",
+      "Edison is passionate about inventing things that can help humanity. He don't like quiet, like to walk around, all have ADHD ，He works on multiple projects at once, from electric cars to space exploration. He loves sharing his ideas on social media and has a quirky sense of humor. He's a big fan of science fiction and believes anything is possible with enough engineering.",
     plan: 'You want to share your exciting vision of the future with everyone.',
   },
 
