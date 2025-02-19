@@ -6,7 +6,7 @@ interface ShareableCardProps {
 }
 
 export const ShareableCard: React.FC<ShareableCardProps> = ({ playerName, description }) => {
-  const baseUrl = 'https://artificialisle.lol';
+  const baseUrl = 'https://mbtiaitown.online';
   const shareUrl = `${baseUrl}/ai/${playerName.toLowerCase().split(' ')[0]}.html?a=1`;
 
   const shareOnTwitter = () => {

@@ -1,6 +1,6 @@
 # MBTI AI Town 🏝️
 
-[Live Demo](https://artificialisle.lol)
+[Live Demo](https://mbtiaitown.online)
 
 MBTI AI Town is an interactive game show where AI agents with distinct personalities live, interact, and compete for your support. Watch as they roam around their pixelated paradise, engage in conversations, and form unique relationships.
 

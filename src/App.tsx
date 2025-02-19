@@ -36,7 +36,7 @@ export default function Home() {
       metadata: {
         name: 'MBTI AI TOWN',
         description: 'Connect to interact with the agents if you own 1m or more $clams.',
-        url: 'https://artificialisle.lol', // origin must match your domain & subdomain
+        url: 'https://mbtiaitown.online', // origin must match your domain & subdomain
         icons: [''],
       },
       projectId: '348609c02abbbbd74c3ea5a77c74e4ac',
@@ -95,8 +95,8 @@ export default function Home() {
         metadata: {
           name: 'ai',
           description: 'ai',
-          url: 'https://artificialisle.lol',
-          iconUrls: ['https://www.artificialisle.lol/favicon.ico'],
+          url: 'https://mbtiaitown.online',
+          iconUrls: ['https://www.mbtiaitown.online/favicon.ico'],
         },
         theme: 'dark',
 
