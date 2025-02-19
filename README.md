@@ -14,78 +14,20 @@ and should be suitable from everything from a simple project to play around with
 A secondary goal is to make a JS/TS framework available as most simulators in this space
 (including the original paper above) are written in Python.
 
-# ElonsDev Log:
+# Dev Log:
 
-#### Monday 20th January
+#### 16th February
 
-- Finished off initial MVP (WIP SINCE DECEMBER)
+- Finished off initial MVP (WIP SINCE JANUARY)
 
-#### Tuesday 21st January
+#### 17th February
 
-- launched the website/dapp and clams on pump.fun.
 - Monitored backend for errors & fixed constants bug from making activities longer
-- paid dexscreener
-- paid x premium
 
-#### Wednesday 22nd January
+#### 18th February
 
 - Fixed reported front-end bugs.
-- Applied for clams to be listed on coingecko.
 - Started working on expanding team by setting up meetings.
-
-#### Thursday 23rd January
-
-- Added countdown timer for end of week.
-- Add Replicate for new daily music generation.
-- Add DevLog and Issues from community suggestions on X.
-- Work on agent summaries [WIP]
-
-#### Friday 24th January
-
-- Add share card for agents
-
-#### Sunday 26th January
-
-- Work on tokengated access to enter the isle as yourself
-
-#### Monday 27th January
-
-- Finish tokengated access (1 million clams required)
-- Add new weeks agents
-- Reset Week
-
-#### Tuesday 28th January
-
-- Check for bugs
-
-#### Thursday 29th January
-
-- Start work on mobile fixes
-
-#### Monday 3rd February
-
-- Finish wallet and mobile testing
-
-#### Tuesday 4th February
-
-- Push wallet and mobile branch
-- Reset for week 3
-- Pete was voted off so removed him
-
-#### Wednesday 5th February
-
-- Update with new logo
-- Update dexscreener, linktree, favicon, twitter with new logo
-
-#### Saturday 8th February
-
-- Scope work required for suggested changes
-
-#### Tuesday 11th February
-
-- Reset for week 3
-- Add Dave to the isle
-- No1 voted off because too little votes submitted
 
 ## Overview
 
