@@ -15,7 +15,7 @@ export const LLM_CONFIG = {
 
   // Together.ai config:
   ollama: true,
-  url: 'https://api.together.xyz',
+  url: 'https://api.together.xyz/v1',
   chatModel: 'meta-llama/Llama-Vision-Free',
   embeddingModel: 'togethercomputer/m2-bert-80M-8k-retrieval',
   embeddingDimension: 768,
