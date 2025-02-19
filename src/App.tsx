@@ -219,9 +219,9 @@ export default function Home() {
                 wtf
               </Button>
               <MusicButton />
-              <Button href="https://x.com/artificialisle" imgUrl={xImg}></Button>
+              <Button href="https://x.com/MBTIAITOWN" imgUrl={xImg}></Button>
               <Button
-                href="https://github.com/artificialisland/artificialisle"
+                href="https://github.com/MBTIAITOWN/mbti-ai-town-0219.git"
                 imgUrl={gitLogo}
               ></Button>
             </div>

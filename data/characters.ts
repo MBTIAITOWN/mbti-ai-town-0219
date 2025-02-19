@@ -85,7 +85,7 @@ export const characters = [
   },
   {
     name: 'f5',
-    textureUrl: '/ai-town/assets/32x32folk.png',
+    textureUrl: '/ai/assets/32x32folk.png',
     spritesheetData: f5SpritesheetData,
     speed: 0.1,
   },

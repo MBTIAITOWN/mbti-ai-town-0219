@@ -24,7 +24,7 @@ export const ShareableCard: React.FC<ShareableCardProps> = ({ playerName, descri
           alt={playerName}
           className="h-14 w-14 object-cover "
           onError={(e) => {
-            e.currentTarget.src = '/assets/agents-social-image/Stella.png';
+            e.currentTarget.src = '/assets/agents-social-image/ENFJ.png';
           }}
         />
         <button
