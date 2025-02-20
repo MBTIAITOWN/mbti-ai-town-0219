@@ -25,12 +25,11 @@ export const LLM_CONFIG = {
   // penAI config:
   ollama: false,
   url: 'https://api.zhizengzeng.com',
-  chatModel: 'gpt-3.5-turbo',
+  chatModel: 'gpt-4o-mini',
   embeddingModel: 'text-embedding-ada-002',
   embeddingDimension: 1536,
   stopWords: [],
   apiKey: () => process.env.OPENAI_API_KEY ?? process.env.LLM_API_KEY,
-
 };
 
 function apiUrl(path: string) {
