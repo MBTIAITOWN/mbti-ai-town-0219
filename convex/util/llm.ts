@@ -15,8 +15,8 @@ export const LLM_CONFIG = {
 
   // Together.ai config:
   ollama: false,
-  url: 'https://api.together.xyz',
-  chatModel: 'meta-llama/Llama-3.3-70B-Instruct-Turbo',
+  url: 'https://api.together.xyz/v1',
+  chatModel: 'meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo',
   embeddingModel: 'togethercomputer/m2-bert-80M-8k-retrieval',
   embeddingDimension: 768,
   stopWords: ['<|eot_id|>'],
