@@ -12,29 +12,54 @@ interface Agent {
 }
 
 const agents: Agent[] = [
+  // {
+  //   name: 'Alice',
+  //   address: 'EiC9h9YLEGTdsU2GNcgPeNnpB9HwrQU8u9o4oY3LwrWd',
+  //   id: 'p:8' as GameId<'players'>,
+  // },
+  // {
+  //   name: 'Triumph',
+  //   address: '5zpGkyMgSuTh359RArWmB4y1cbhS33ZqRk8GQuLK5Uxy',
+  //   id: 'p:2' as GameId<'players'>,
+  // },
+  //
+  // {
+  //   name: 'Edison',
+  //   address: 'ASa2SCBd4MVFqetY9XTX2f1ddp2tK2K88CNWqCnaoznw',
+  //   id: 'p:4' as GameId<'players'>,
+  // },
+  // {
+  //   name: 'Kurama',
+  //   address: '9F1aFaP9uKEisJ4RtVDx49S7Uhs6BaXxq2cJymNoApLR',
+  //   id: 'p:0' as GameId<'players'>,
+  // },
+  // {
+  //   name: 'Lambo',
+  //   address: '9s9k5X7EVkRtKE6PYzDVd9aU9qGFy5dHyiRya7sjCUxK',
+  //   id: 'p:6' as GameId<'players'>,
+  // },
   {
-    name: 'Alice',
+    name: 'ENFJ',
     address: 'EiC9h9YLEGTdsU2GNcgPeNnpB9HwrQU8u9o4oY3LwrWd',
-    id: 'p:8' as GameId<'players'>,
+    id: 'p:3' as GameId<'players'>,
   },
   {
-    name: 'Triumph',
+    name: 'ESTP',
     address: '5zpGkyMgSuTh359RArWmB4y1cbhS33ZqRk8GQuLK5Uxy',
-    id: 'p:2' as GameId<'players'>,
+    id: 'p:1' as GameId<'players'>,
   },
-
   {
-    name: 'Edison',
+    name: 'ENTP',
     address: 'ASa2SCBd4MVFqetY9XTX2f1ddp2tK2K88CNWqCnaoznw',
     id: 'p:4' as GameId<'players'>,
   },
   {
-    name: 'Kurama',
+    name: 'INFP',
     address: '9F1aFaP9uKEisJ4RtVDx49S7Uhs6BaXxq2cJymNoApLR',
     id: 'p:0' as GameId<'players'>,
   },
   {
-    name: 'Lambo',
+    name: 'ISTJ',
     address: '9s9k5X7EVkRtKE6PYzDVd9aU9qGFy5dHyiRya7sjCUxK',
     id: 'p:6' as GameId<'players'>,
   },
