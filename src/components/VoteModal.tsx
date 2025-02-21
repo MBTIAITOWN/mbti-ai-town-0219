@@ -32,9 +32,9 @@ export const VoteModal: React.FC<VoteModalProps> = ({ isOpen, onClose, agent }) 
           </button>
         </div>
         <p className="mb-4">To vote for {agent.name}, you must tip them using CLAM tokens.</p>
-        <p className="mb-4">
-          Agent's SOL address: <span className="font-mono break-all">{agent.address}</span>
-        </p>
+        {/*<p className="mb-4">*/}
+        {/*  Agent's SOL address: <span className="font-mono break-all">{agent.address}</span>*/}
+        {/*</p>*/}
 
         <div className="bg-yellow-100 border-l-4 border-red-500 text-yellow-700 p-4 mb-4">
           <p className="font-bold">Hi:</p>
@@ -42,16 +42,16 @@ export const VoteModal: React.FC<VoteModalProps> = ({ isOpen, onClose, agent }) 
             Coming very soon!
           </p>
         </div>
-        <p className="text-nowrap">
-          Clams can be bought{' '}
-          <a
-            className="underline"
-            target="_blank"
-            href="https://pump.fun/coin/pGmqZA8iruRh7dtRH4x22cU4H5wPPWsJUA9h9vapump"
-          >
-            here
-          </a>
-        </p>
+        {/*<p className="text-nowrap">*/}
+        {/*  Clams can be bought{' '}*/}
+        {/*  <a*/}
+        {/*    className="underline"*/}
+        {/*    target="_blank"*/}
+        {/*    href="https://pump.fun/coin/pGmqZA8iruRh7dtRH4x22cU4H5wPPWsJUA9h9vapump"*/}
+        {/*  >*/}
+        {/*    here*/}
+        {/*  </a>*/}
+        {/*</p>*/}
       </div>
     </ReactModal>
   );
