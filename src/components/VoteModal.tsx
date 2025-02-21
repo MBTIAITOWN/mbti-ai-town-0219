@@ -31,7 +31,7 @@ export const VoteModal: React.FC<VoteModalProps> = ({ isOpen, onClose, agent }) 
             <img src={closeImg || '/placeholder.svg'} alt="Close" className="w-6 h-6" />
           </button>
         </div>
-        <p className="mb-4">To vote for {agent.name}, you must tip them using CLAM tokens.</p>
+        <p className="mb-4">To vote for {agent.name}, you must tip them using MBTI tokens.</p>
         {/*<p className="mb-4">*/}
         {/*  Agent's SOL address: <span className="font-mono break-all">{agent.address}</span>*/}
         {/*</p>*/}
