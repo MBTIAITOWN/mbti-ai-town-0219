@@ -44,9 +44,9 @@ const agents: Agent[] = [
     id: 'p:3' as GameId<'players'>,
   },
   {
-    name: 'ESTP',
+    name: 'ESTJ',
     address: '5zpGkyMgSuTh359RArWmB4y1cbhS33ZqRk8GQuLK5Uxy',
-    id: 'p:1' as GameId<'players'>,
+    id: 'p:8' as GameId<'players'>,
   },
   {
     name: 'ENTP',
@@ -56,12 +56,12 @@ const agents: Agent[] = [
   {
     name: 'INFP',
     address: '9F1aFaP9uKEisJ4RtVDx49S7Uhs6BaXxq2cJymNoApLR',
-    id: 'p:0' as GameId<'players'>,
+    id: 'p:5' as GameId<'players'>,
   },
   {
     name: 'ISTJ',
     address: '9s9k5X7EVkRtKE6PYzDVd9aU9qGFy5dHyiRya7sjCUxK',
-    id: 'p:6' as GameId<'players'>,
+    id: 'p:2' as GameId<'players'>,
   },
   /*   {
     name: 'Dave',
