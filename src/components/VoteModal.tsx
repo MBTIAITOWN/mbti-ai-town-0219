@@ -37,10 +37,9 @@ export const VoteModal: React.FC<VoteModalProps> = ({ isOpen, onClose, agent }) 
         </p>
 
         <div className="bg-yellow-100 border-l-4 border-red-500 text-yellow-700 p-4 mb-4">
-          <p className="font-bold">Disclaimer:</p>
+          <p className="font-bold">Hi:</p>
           <p>
-            Voting requires CLAM tokens. Ensure you're sending CLAMs to the correct address.
-            Transactions are irreversible. Vote responsibly!
+            Coming very soon!
           </p>
         </div>
         <p className="text-nowrap">
