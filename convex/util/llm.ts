@@ -24,7 +24,7 @@ export const LLM_CONFIG = {
 
   // penAI config:
   ollama: false,
-  url: 'https://api.zhizengzeng.com',
+  url: 'https://xiaoai.plus',
   chatModel: 'gpt-4o-mini',
   embeddingModel: 'text-embedding-ada-002',
   embeddingDimension: 1536,
